@@ -1,3 +1,3 @@
 # Pilas
 
-Ejercicios de practica de pilas
+Ejercicios en clase: Práctica de pilas del día  05 de abril
